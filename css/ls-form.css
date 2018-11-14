@@ -1,0 +1,431 @@
+﻿@import url("https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css");
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.textcut {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+* {
+  box-sizing: border-box;
+}
+.ls-col-1 {
+  width: 8.33333333%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-2 {
+  width: 16.66666667%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-3 {
+  width: 25%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-4 {
+  width: 33.33333333%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-5 {
+  width: 41.66666667%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-6 {
+  width: 50%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-7 {
+  width: 58.33333333%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-8 {
+  width: 66.66666667%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-9 {
+  width: 75%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-10 {
+  width: 83.33333333%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-11 {
+  width: 91.66666667%;
+  float: left;
+  padding: 0px 5px;
+}
+.ls-col-12 {
+  width: 100%;
+  float: left;
+  padding: 0px 5px;
+}
+<<<<<<< HEAD
+input[type="text"] ~ .ls-input-icon {
+  position: relative;
+  left: -20px;
+  top: 2px;
+}
+=======
+>>>>>>> remotes/ls-form/master
+.ls-row:before,
+.ls-row:after {
+  content: " ";
+  display: table;
+}
+.ls-row:after {
+  clear: both;
+}
+.ls-row:before,
+.ls-row:after {
+  content: " ";
+  display: table;
+}
+.ls-row:after {
+  clear: both;
+}
+.ls-form-v .ls-required {
+  position: relative;
+}
+.ls-form-v .ls-required:before {
+  content: "*";
+  font-size: 16px;
+  color: #e3342f;
+  position: absolute;
+  left: 0px;
+}
+.ls-form-v .ls-form-item {
+  margin-bottom: 5px;
+  position: relative;
+}
+.ls-form-v .ls-form-item:before,
+.ls-form-v .ls-form-item:after {
+  content: " ";
+  display: table;
+}
+.ls-form-v .ls-form-item:after {
+  clear: both;
+}
+.ls-form-v .ls-form-item:before,
+.ls-form-v .ls-form-item:after {
+  content: " ";
+  display: table;
+}
+.ls-form-v .ls-form-item:after {
+  clear: both;
+}
+.ls-form-v .ls-form-item .ls-form-label {
+  font-size: 14px;
+  font-weight: 400;
+  text-align: justify;
+  position: relative;
+  padding-left: 10px;
+  line-height: 30px;
+  height: 30px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.ls-form-inline:before,
+.ls-form-inline:after {
+  content: " ";
+  display: table;
+}
+.ls-form-inline:after {
+  clear: both;
+}
+.ls-form-inline:before,
+.ls-form-inline:after {
+  content: " ";
+  display: table;
+}
+.ls-form-inline:after {
+  clear: both;
+}
+.ls-form-inline .ls-input-block {
+  padding-right: 10px;
+}
+<<<<<<< HEAD
+.input-mid {
+  display: inline-block;
+  position: relative;
+}
+.input-mid:before {
+  content: "—";
+  display: block;
+  vertical-align: middle;
+  font-size: 12px;
+  color: #b8c2cc;
+}
+.input-mid:after {
+  content: "";
+  display: block;
+  vertical-align: middle;
+  width: 0px;
+  height: 100%;
+}
+=======
+>>>>>>> remotes/ls-form/master
+.ls-form .ls-required {
+  position: relative;
+}
+.ls-form .ls-required:before {
+  content: "*";
+  font-size: 16px;
+  color: #e3342f;
+  position: absolute;
+  left: 0px;
+}
+.ls-form .ls-form-item {
+  margin-bottom: 10px;
+  position: relative;
+}
+.ls-form .ls-form-item:before,
+.ls-form .ls-form-item:after {
+  content: " ";
+  display: table;
+}
+.ls-form .ls-form-item:after {
+  clear: both;
+}
+.ls-form .ls-form-item:before,
+.ls-form .ls-form-item:after {
+  content: " ";
+  display: table;
+}
+.ls-form .ls-form-item:after {
+  clear: both;
+}
+.ls-form .ls-form-item .ls-form-label {
+  font-size: 14px;
+  font-weight: 400;
+  text-align: justify;
+  position: relative;
+  width: 95px;
+  padding-left: 10px;
+  line-height: 30px;
+  float: left;
+  overflow: hidden;
+  height: 30px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.ls-form .ls-form-item .ls-form-label:after {
+  content: "";
+  width: 100%;
+  display: inline-block;
+  overflow: hidden;
+  height: 0px;
+  background: #ff0000;
+  vertical-align: middle;
+}
+.ls-form .ls-form-item .ls-input-block {
+  margin-left: 110px;
+}
+<<<<<<< HEAD
+.ls-form .ls-form-item .ls-input-inline {
+  margin-left: 110px;
+  width: auto;
+}
+.ls-form .ls-form-item .ls-input-inline .ls-input {
+  width: auto;
+}
+=======
+>>>>>>> remotes/ls-form/master
+.ls-radius {
+  border-radius: 3px;
+}
+/*checkbox样式*/
+.ls-checkbox {
+  vertical-align: middle;
+  display: inline-block;
+  height: 30px;
+}
+.ls-checkbox:before {
+  content: "";
+  display: inline-block;
+  width: 0px;
+  height: 100%;
+  vertical-align: middle;
+}
+.ls-checkbox label {
+  position: relative;
+  font-weight: normal;
+  cursor: pointer;
+  margin-right: 15px;
+  vertical-align: middle;
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+.ls-checkbox input[type="checkbox"] {
+  position: relative;
+  width: 0px;
+  height: 18px;
+  margin: 0px 18px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+}
+.ls-checkbox input[type="checkbox"]:before {
+  font-family: fontAwesome;
+  content: "\f14a";
+  position: absolute;
+  font-size: 18px ;
+  color: #dae1e7;
+  z-index: 2;
+  top: 3px;
+}
+.ls-checkbox input[type="checkbox"]:after {
+  font-family: fontAwesome;
+  content: "\f0c8";
+  position: absolute;
+  font-size: 18px ;
+  color: white;
+  z-index: 1;
+  top: 3px;
+}
+.ls-checkbox input[type="checkbox"]:hover:before {
+  color: #b8c2cc;
+}
+.ls-checkbox input[type="checkbox"]:checked:before {
+  font-family: fontAwesome;
+  content: "\f14a";
+  font-size: 18px ;
+  color: #3490dc;
+  z-index: 2;
+}
+.ls-checkbox input[type="checkbox"]:checked:after {
+  font-family: fontAwesome;
+  content: "\f0c8";
+  position: absolute;
+  font-size: 18px ;
+  color: white;
+  z-index: 1;
+}
+.ls-radio {
+  vertical-align: middle;
+  display: inline-block;
+  height: 30px;
+}
+.ls-radio:before {
+  content: "";
+  display: inline-block;
+  width: 0px;
+  height: 100%;
+  vertical-align: middle;
+}
+.ls-radio label {
+  position: relative;
+  font-weight: normal;
+  cursor: pointer;
+  margin-right: 15px;
+  vertical-align: middle;
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+.ls-radio input[type="radio"] {
+  position: relative;
+  width: 0px;
+  height: 18px;
+  margin: 0px 18px 0px 0px;
+  display: inline-block;
+  vertical-align: top;
+}
+.ls-radio input[type="radio"]:before {
+  font-family: fontAwesome;
+  content: "\f192";
+  position: absolute;
+  font-size: 18px ;
+  color: #dae1e7;
+  z-index: 2;
+  top: 3px;
+}
+.ls-radio input[type="radio"]:after {
+  font-family: fontAwesome;
+  content: "\f111";
+  position: absolute;
+  font-size: 18px ;
+  color: white;
+  z-index: 1;
+  top: 3px;
+}
+.ls-radio input[type="radio"]:hover:before {
+  color: #b8c2cc;
+}
+.ls-radio input[type="radio"]:checked:before {
+  font-family: fontAwesome;
+  content: "\f192";
+  font-size: 18px ;
+  color: #3490dc;
+  z-index: 2;
+}
+.ls-radio input[type="radio"]:checked:after {
+  font-family: fontAwesome;
+  content: "\f111";
+  position: absolute;
+  font-size: 18px ;
+  color: white;
+  z-index: 1;
+}
+.ls-input {
+  border: 1px solid #b8c2cc;
+  background: white;
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-size: 14px;
+  color: #3d4852;
+  width: 100%;
+  height: 30px;
+}
+.ls-input:focus {
+  outline: none;
+  border-color: #b7d7f2;
+  background: #f8fbfe;
+}
+.ls-btn {
+  padding: 5px 10px;
+  border: 1px solid #b8c2cc;
+  background: #f1f5f8;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 14px;
+  text-decoration: none;
+  line-height: 1.3;
+  color: #8795a1;
+}
+.ls-btn:hover,
+.ls-btn:focus {
+  background: #f8fafc;
+}
+.ls-primary {
+  background: #3490dc;
+  color: white;
+  border-color: #2484d2;
+}
+.ls-primary:hover,
+.ls-primary:focus {
+  background: #5fa8e4;
+}
+.ls-line {
+  background: white;
+  color: #3490dc;
+  border-color: #2484d2;
+}
+.ls-line:hover,
+.ls-line:focus {
+  background: #5fa8e4;
+  color: white;
+}

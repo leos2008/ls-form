@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "D:\\MyWorks\\2018\\11月\\表单模块"
+		}
+  ],
+   "settings":
+   {
+       "lessc":
+       { 
+           "auto_compile": true,
+           "compress": false,
+           "encoding": "UTF-8",
+           "less_dir": "D:\\MyWorks\\2018\\11月\\表单模块\\less",
+           "output_dir": "D:\\MyWorks\\2018\\11月\\表单模块\\css",
+       }
+   }
+}

@@ -1,0 +1,109 @@
+@import "myColors.less"; 
+@import url("https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css"); 
+@basecolor:@blue-base; 
+
+*{box-sizing: border-box; } 
+
+//原文：https://blog.csdn.net/lx583274568/article/details/54583498 
+.generate-columns(12);
+.generate-columns(@n, @i: 1) when (@i =< @n) {
+	.ls-col-@{i} {
+		width: (@i * 100% / @n);float: left;padding: 0px 5px;
+	}
+	.generate-columns(@n, (@i + 1));
+}  
+//原文：https://blog.csdn.net/lx583274568/article/details/54583498 margin-left: -5px;margin-right: -5px;
+
+<<<<<<< HEAD
+input[type="text"]~.ls-input-icon{position: relative;left: -20px;top: 2px;}
+=======
+>>>>>>> remotes/ls-form/master
+.ls-row{.clearfix;}
+.ls-form-v{
+	.ls-required{position: relative;
+		&:before{content: "*";font-size: 16px;color: @red-base;position: absolute;left: 0px;}
+	} 
+	.ls-form-item{ margin-bottom: 5px;.clearfix;position: relative;
+		//&:first-child{margin-top: 0px;}
+		.ls-form-label{font-size: 14px;	font-weight: 400;text-align: justify;position: relative;padding-left: 10px;line-height: 30px;height: 30px; font-weight: bold;margin-bottom: 0px;
+		}
+		.ls-input-block{}
+	}
+}
+.ls-form-inline{.clearfix;
+	.ls-input-block{padding-right: 10px;}
+}
+<<<<<<< HEAD
+.input-mid{display: inline-block; position: relative;
+	&:before{content: "—"; display: block; vertical-align: middle;font-size: 12px;color: @gray-base;}
+	&:after{content: "";display: block; vertical-align: middle;width: 0px;height: 100%;}
+}
+=======
+>>>>>>> remotes/ls-form/master
+.ls-form{
+	.ls-required{position: relative;
+		&:before{content: "*";font-size: 16px;color: @red-base;position: absolute;left: 0px;}
+	} 
+	.ls-form-item{ margin-bottom: 10px;.clearfix;position: relative;
+		//&:first-child{margin-top: 0px;}
+		.ls-form-label{font-size: 14px;	font-weight: 400;text-align: justify;position: relative;width: 95px;padding-left: 10px;line-height: 30px;float: left;overflow: hidden;height: 30px;font-weight: bold;margin-bottom: 0px;
+			&:after{content: "";width: 100%;display: inline-block;overflow: hidden;height: 0px;background: #ff0000;vertical-align: middle;}
+		}
+		.ls-input-block{margin-left: 110px;}
+<<<<<<< HEAD
+		.ls-input-inline{margin-left: 110px;width: auto;
+			.ls-input{width: auto; }
+		}
+=======
+>>>>>>> remotes/ls-form/master
+	}
+}
+.ls-radius{border-radius: 3px;}
+
+/*checkbox样式*/
+.ls-checkbox{vertical-align: middle;display: inline-block;height: 30px;
+	&:before{content: "";display: inline-block;width: 0px;height: 100%;vertical-align: middle;}
+	label{position: relative;font-weight: normal;cursor: pointer;margin-right: 15px; vertical-align: middle;font-size: 14px;margin-bottom: 0px;
+	}
+	input[type="checkbox"]{position: relative;width: 0px;height: 18px;margin: 0px 18px 0px 0px;display: inline-block;vertical-align: top;
+			&:before{font-family: fontAwesome; content: "\f14a";position: absolute;font-size: 18px ;color: @gray-light;z-index: 2;top: 3px;}
+			&:after{font-family: fontAwesome; content: "\f0c8";position: absolute;font-size: 18px ;color: white;z-index: 1;top: 3px;}
+
+			&:hover{ 
+				&:before{color: @gray-base;}
+			}
+			&:checked{ 
+				&:before{font-family: fontAwesome; content: "\f14a";font-size:18px ;color: @basecolor;z-index: 2;}
+				&:after{font-family: fontAwesome; content: "\f0c8";position: absolute;font-size: 18px ;color: white;z-index: 1;}
+			}
+		}
+}
+.ls-radio{vertical-align: middle;display: inline-block;height: 30px;
+	&:before{content: "";display: inline-block;width: 0px;height: 100%;vertical-align: middle;}
+	label{position: relative;font-weight: normal;cursor: pointer;margin-right: 15px; vertical-align: middle;font-size: 14px;margin-bottom: 0px;
+	}
+	input[type="radio"]{position: relative;width: 0px;height: 18px;margin: 0px 18px 0px 0px;display: inline-block;vertical-align: top;
+			&:before{font-family: fontAwesome; content: "\f192";position: absolute;font-size: 18px ;color: @gray-light;z-index: 2;top: 3px;}
+			&:after{font-family: fontAwesome; content: "\f111";position: absolute;font-size: 18px ;color: white;z-index: 1;top: 3px;}
+
+			&:hover{ 
+				&:before{color: @gray-base;}
+			}
+			&:checked{ 
+				&:before{font-family: fontAwesome; content: "\f192";font-size:18px ;color: @basecolor;z-index: 2;}
+				&:after{font-family: fontAwesome; content: "\f111";position: absolute;font-size: 18px ;color: white;z-index: 1;}
+			}
+		}
+} 
+.ls-input{border:1px solid @gray-base;background: white;padding: 5px 10px;border-radius: 3px;font-size: 14px;color: @gray-darkest;width: 100%;height: 30px;
+	&:focus{outline:none;border-color:lighten(@basecolor, 30%);background: lighten(@basecolor, 45%);}
+}
+.ls-btn{padding: 5px 10px;border:1px solid @gray-base;background:@gray-lighter;display: inline-block;vertical-align: middle;font-size: 14px;text-decoration: none;line-height: 1.3;color: @gray-dark;
+	&:hover,&:focus{background: @gray-lightest;}
+}
+.ls-primary{background: @basecolor;color: white;border-color: darken(@basecolor,5%);
+	&:hover,&:focus{background: lighten(@basecolor, 10%);}
+}
+.ls-line{background: white;color: @basecolor;border-color: darken(@basecolor,5%);
+	&:hover,&:focus{background: lighten(@basecolor, 10%);color: white;}
+}

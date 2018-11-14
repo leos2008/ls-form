@@ -1,0 +1,1667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"borde-rr",
+				"border-radius"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"pd",
+				"padding"
+			],
+			[
+				"d",
+				"d-ib	display: inline-block;"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"outlin",
+				"outline-color"
+			],
+			[
+				"gray-l",
+				"gray-lightest"
+			],
+			[
+				"dc",
+				"dblclick	.dblclick()"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ou",
+				"outerHeight	.outerHeight()"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pre",
+				"prevAll	.prevAll()"
+			],
+			[
+				"adc",
+				"addClass	.addClass()"
+			],
+			[
+				"pr",
+				"prevAll	.prevAll()"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"borderr",
+				"border-right"
+			],
+			[
+				"bord-r",
+				"border-right"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"pding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"inel",
+				"inline-block"
+			],
+			[
+				"impr",
+				"@import	@import url(${0});"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"mrgi",
+				"margin"
+			],
+			[
+				"remo",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"ot",
+				"outerWidth	.outerWidth()"
+			],
+			[
+				"am-f",
+				"am-form	am-form"
+			],
+			[
+				"remov",
+				"removeClass	.removeClass()"
+			],
+			[
+				"war",
+				"wrapper"
+			],
+			[
+				"add",
+				"addNewApp"
+			],
+			[
+				"basecoor",
+				"basecolor-light"
+			],
+			[
+				"ani",
+				"animate	.animate() with callback"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"out",
+				"outerWidth	.outerWidth()"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"mose",
+				"mouseout	.mouseout()"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"scr",
+				"scroll	.scroll()"
+			],
+			[
+				"mouse",
+				"mouseout	.mouseout()"
+			],
+			[
+				"mous",
+				"mousemove	.mousemove()"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"scroll",
+				"scroller"
+			],
+			[
+				"wra",
+				"wrapper"
+			],
+			[
+				"ea",
+				"each	.each()"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"bg",
+				"bg	background: #${1:000};"
+			],
+			[
+				"t",
+				"table-column"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"auto",
+				"autoPlay"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"basecolor",
+				"basecolor-light"
+			],
+			[
+				"app",
+				"append	.append()"
+			],
+			[
+				"fad",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"loginbox",
+				"loginbox_h"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"tr",
+				"trf-sc	transform: scale(${1:x}, ${2:y});"
+			],
+			[
+				"pos-",
+				"pos-r	position: relative;"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"po-",
+				"pos-a	position: absolute;"
+			],
+			[
+				"txt",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"sli",
+				"slideDown	.slideDown()"
+			],
+			[
+				"win",
+				"win_w"
+			],
+			[
+				"img",
+				"img_w"
+			],
+			[
+				"po",
+				"pos-r	position: relative;"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"co",
+				"colgroup	Tag"
+			],
+			[
+				"v",
+				"va-tt	vertical-align: text-top;"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"fis",
+				"firstLevel"
+			],
+			[
+				"float",
+				"float03"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"cli",
+				"click	.click()"
+			],
+			[
+				"up",
+				"upper-alpha"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"slid",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"ne",
+				"nextLevel"
+			],
+			[
+				"toglg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"po-s",
+				"pos-a	position: absolute;"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ov",
+				"ov-h	overflow: hidden;"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"listst",
+				"list-style"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"trs",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"t-r",
+				"ta-r	text-align: right;"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"mou",
+				"mouseleave	.mouseleave()"
+			],
+			[
+				"mo",
+				"mouseleave	.mouseleave()"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"bordr-",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/ls-form.css",
+			"settings":
+			{
+				"buffer_size": 6544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/ls-form.less",
+			"settings":
+			{
+				"buffer_size": 4383,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "form-v.html",
+			"settings":
+			{
+				"buffer_size": 3461,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "form-inline.html",
+			"settings":
+			{
+				"buffer_size": 2688,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ls-form.html",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pm",
+				"Project Manager"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"docu",
+				"Snippet: $(document).ready"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Reindent",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/MyWorks/2018/11月/表单模块",
+		"/D/MyWorks/2018/11月/表单模块/css",
+		"/D/MyWorks/2018/11月/表单模块/less"
+	],
+	"file_history":
+	[
+		"/D/MyWorks/2018/11月/表单模块/ls-form.html",
+		"/D/MyWorks/2018/10月/10-09 智慧门户项目/HTML/个人短信-发送成功.html",
+		"/D/MyWorks/2018/10月/10-09 智慧门户项目/HTML/个人短信-发送成功-独立.html",
+		"/D/MyWorks/2018/10月/10-09 智慧门户项目/HTML/个人短信-写短信-独立.html",
+		"/D/MyWorks/2018/11月/表单模块/css/ls-form.css",
+		"/D/MyWorks/2018/11月/表单模块/表单模块.sublime-project",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/招标详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/首页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/招标.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/招募.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/找需求.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/供应方.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/人才首页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/需求/需求方-未登陆子页面主页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/需求/需求方-未登陆子页面主页-项目信息列表.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/需求/需求方-未登陆子页面主页-招募详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/需求/需求方-未登陆子页面主页-招募公告、招标预告、中标公告.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/供应/供应方-供应方详情页面.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/人才/建筑人才-职位单页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/人才/建筑人才-找资质.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/人才/建筑人才-找证书.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/人才/建筑人才-找工作.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/人才/建筑人才-找人才.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/人才/建筑人才-企业单页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/人才/建筑人才-人才简历单页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/消息中心/供应方_消息中心.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/注册/登录.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/注册/注册成功.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/注册/企业认证.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/供应方-基本设置_项目信息.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/供应方-基本设置_修改手机号.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/供应方-基本设置_企业详细信息.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/供应方-基本设置_企业基本信息.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/供应方-个人中心-我参与的招募.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/供应方-个人中心-我关注的需求方.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/供应方-个人中心-企业基本信息管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/订单管理/供应商后台-订单详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/订单管理/供应商后台-订单管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/招标管理/供应方_招标管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/我的关注/供应方_我的关注.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/我参与的报价/供应商后台-参与报价.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/商品管理/供应商管理后台-发布商品.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/商品管理/供应商后台-产品管理.html",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/panel.less",
+		"/D/微云同步/1775028/网页png/筑库/pages/14-需求方-管理方页面-工作台.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/15-需求方-管理方页面-招募管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/31-金融.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/32-金融-找项目.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/34-企业登录-简历管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/16-需求方-管理方页面-线下导入供应商.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/16-需求方-管理方页面-招募招标详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/08-供应方-基本设置_修改手机号.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/商品管理/38-供应商后台-产品管理.html",
+		"/D/微云同步/1775028/网页png/筑库/modules/index.html",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/search.less",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/17-需求方-管理方页面-招标管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/采购管理/44-需求方-我的采购单明细.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/采购管理/43-需求方-我的需求单.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/采购管理/43-需求方-我的采购单.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/采购管理/42-需求方-采购管理-新增.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/采购管理/40-需求方-我的需求单.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/供应商管理/需求方_供应商管理_招募草稿列表.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/供应商管理/15-需求方-管理方页面-招募管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/供应商管理/16-需求方-管理方页面-线下导入供应商.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/供应商管理/16-需求方-管理方页面-招募招标详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/供应商管理/14-需求方-管理方页面-工作台.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/供应/13-供应方-供应方详情页面.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/10-供应方-基本设置_企业基本信息.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/09-供应方-基本设置_企业详细信息.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/08-供应方-基本设置_项目信息.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/供应商管理/需求方_供应商管理_合格供应商列表.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/需求方后台/供应商管理/需求方_供应商管理_关注列表.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/门户/04-首页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/基本设置/10-供应方-基本设置_修改手机号.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/10-供应方-个人中心-企业基本信息.html",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/list.less",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/订单管理/38-供应商后台-订单详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/订单管理/37-供应商后台-订单管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/我参与的报价/36-供应商后台-参与报价.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/供应商后台/商品管理/39-供应商管理后台-发布商品.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/05-供应方.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/04-首页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/27-建筑人才-找工作.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/28-建筑人才-找人才.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/29-建筑人才-找证书.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/30-建筑人才-找资质.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/01-登录.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/23-人才首页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/21-需求方-未登陆子页面主页-项目信息列表.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/24-建筑人才-企业单页.html",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/categoryMenu.less",
+		"/D/微云同步/1775028/网页png/筑库/pages/43-需求方-我的需求单.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/06-找需求.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/07-招募.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/35-招标.html",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/banner.less",
+		"/D/微云同步/1775028/网页png/筑库/pages/44-需求方-我的采购单明细.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/41-需求方-已报价需求单详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/36-供应商后台-参与报价.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/37-供应商后台-订单管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/40-需求方-采购管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/42-需求方-采购管理-新增.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/39-供应商管理后台-发布商品.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/38-供应商后台-订单详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/16-需求方-管理方页面-供应商管理.html",
+		"/D/微云同步/1775028/网页png/筑库/modules/底部蓝色边框tab页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/38-供应商后台-产品管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/39-供应商后台-商品管理.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/13-供应方-供应方详情页面.html",
+		"/D/微云同步/1775028/网页png/筑库/modules/面包屑导航.html",
+		"/D/微云同步/1775028/网页png/筑库/modules/顶部蓝色边框tab页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/36-我参与的报价.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/17-需求方-管理方页面-招标管理.html",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/login.less",
+		"/D/微云同步/1775028/网页png/筑库/modules/图文块.html",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/header.less",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/footer.less",
+		"/D/微云同步/1775028/网页png/筑库/pages/26-建筑人才-职位单页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/25-建筑人才-人才简历单页.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/33-金融-找资金.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/07-招募-招募详情.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/22-需求方-未登陆子页面主页-招募公告、招标预告、中标公告.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/03-企业认证.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/31-金融-找项目.html",
+		"/D/微云同步/1775028/网页png/筑库/pages/08-供应方-个人中心-符合我的采购需求.html",
+		"/D/微云同步/1775028/网页png/筑库/base-core/WebRoot/resource/less/myColors.less",
+		"/D/微云同步/1775028/网页png/筑库/assets/less/myColors.less",
+		"/D/微云同步/1775028/网页png/筑库/base-core/WebRoot/resource/js/basecommon.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"D:\\微云同步\\1775028\\网页png\\筑库\\pages",
+			"D:\\MyWorks\\2018\\09月\\0925-文化厅移动端\\HTML",
+			"D:\\MyWorks\\2018\\03月\\江西政务通\\HTML",
+			"D:\\WWW\\lvyecms\\Template\\Default\\Member",
+			"D:\\微云同步\\1775028\\学校网站群\\新版本\\教体局",
+			"D:\\WWW\\jxzxH5",
+			"D:\\WWW\\lvyecms",
+			"D:\\WWW\\",
+			"D:\\WWW\\bak\\shuipfcms",
+			"D:\\WWW\\comicManage",
+			"D:\\WWW\\12316",
+			"D:\\MyWorks\\2016\\11月\\BeyondAdmin",
+			"D:\\WWW\\linkreal_final",
+			"D:\\WWW\\nw-oa\\css\\less",
+			"D:\\WWW\\data-center",
+			"D:\\WWW",
+			"D:\\wcm\\1\\templets",
+			"C:\\Users\\Administrator\\AppData\\Roaming\\Adobe\\CEPServiceManager4\\extensions\\IconTemplate",
+			"D:\\WWW",
+			"D:\\WWW\\",
+			"D:\\WWW\\shuipfcms\\",
+			"D:\\WWW\\shuipfcms\\shuipf\\Addon\\Sitemaps",
+			"D:\\WWW\\shuipfcms",
+			"D:\\WWW\\ecshop-utf",
+			"D:\\WWW\\shuipfcms",
+			"D:\\WWW\\ecshop-utf",
+			"D:\\WWW\\ecshop",
+			"D:\\WWW\\shuipfcms",
+			"D:\\WWW\\ecshop",
+			"D:\\WWW\\shuipfcms",
+			"D:\\WWW\\ecshop",
+			"D:\\WWW\\shuipfcms",
+			"D:\\phpStudy",
+			"D:\\WWW\\ecshop"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\\f058\"",
+			"f058",
+			"checkbox",
+			"f0c8",
+			"f14a",
+			"checkbox",
+			"top: 0px;",
+			"width: 18px;height: 18px;",
+			"position: absolute;",
+			"width: 18px;height: 18px;",
+			"height: 18px;",
+			"top: 3px;",
+			"0px",
+			"top: 0px;",
+			"14px",
+			"-1px",
+			"20px",
+			"18px",
+			"3",
+			"36px",
+			"30px",
+			"top",
+			"float: left;",
+			"padding",
+			"\\",
+			"D:\\\\微云同步\\\\1775028\\\\网页png\\\\筑库\\\\assets",
+			" class=\"am-input-sm\"",
+			"----操作----",
+			"操作",
+			"<td>已报价</td>",
+			"导出入库单",
+			"操作",
+			"am-u-sm-8",
+			"am-u-sm-6",
+			"6",
+			"class=\"am-input-sm\"",
+			"am-u-sm-12",
+			"：",
+			"input class=\"am-input-sm\" type=\"text\" placeholder=\"请输入报名截止日期\" data-am-datepicker>",
+			"#",
+			"pagetitle",
+			"../../../assets/",
+			"您发布的招标农村服务已通过审核您发布的招标农村服务已通过审核您发布的招标农村服务已通过审核您发布的招标农村服务已通过审核您发布的招标农村服务已通过审核您发布的招标农村服务已通过审核您发布的招标农村服务已通过审核您发布的招标农村服务已通过审核",
+			"footer",
+			"header",
+			"section",
+			"../assets",
+			"公司简介",
+			"企业电话",
+			"法人姓名",
+			"file:///D|/微云同步/1775028/网页png/筑库/assets",
+			"file:///D|/微云同步/1775028/网页png/筑库/",
+			"file:///D|/微云同步/1775028/网页png/筑库/assets/",
+			"div",
+			"<div class=\"leftMenu\">",
+			"searchbar",
+			"需求方_供应商管理_",
+			"div",
+			"li",
+			"div",
+			"../",
+			"<h2>",
+			"10",
+			"blockquote",
+			"订单管理",
+			"../../assets",
+			"../assets/",
+			"<p>历史招标：3条</p>",
+			"project-info",
+			"<h1><a href=\"#\">青岛海尔家居集成股份有限公司青岛海尔家居集成股份有限公司青岛海尔家居集成股份有限公司青岛海尔家居集成股份有限公司</a></h1>",
+			"boxStyle-tabs",
+			" am-g-collapse",
+			"category-search",
+			"物资申请编号",
+			"lg",
+			"sm",
+			"am-btn am-btn-sm am-radius",
+			"table",
+			"</d",
+			"input",
+			"sm",
+			"xs",
+			" required",
+			"项目名称",
+			" am",
+			" am-u-sm-4",
+			"</select>",
+			"am-form",
+			"80px",
+			"<input class=\"am-input-sm\" type=\"text\" placeholder=\"请输入商品库存\">",
+			" am-u-sm-4",
+			"24px",
+			"basecolor",
+			"请输入类目",
+			"</div>",
+			"switchCategory",
+			"table-modal",
+			"top: -1px;",
+			"checkbox",
+			"small",
+			"255",
+			"97px",
+			"100px",
+			"margin",
+			"<label>",
+			"small",
+			"6",
+			"xs",
+			"u-sm-9",
+			"m-u-sm-3",
+			"div",
+			"p",
+			"am-btn ",
+			" href=\"#\"",
+			"<input type=\"text\">",
+			" class=\"am-primary\"",
+			"btm",
+			"m",
+			"small",
+			"span",
+			"am-btn ",
+			"sm-u",
+			"am-form-group am-form-group-sm",
+			"am-form-field",
+			"未",
+			"top",
+			"面包屑导航",
+			"列表"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<li><a href=\"31-金融.html\">金融</a></li>",
+			"padding10 height100percent ovy bg-white",
+			"网站群",
+			"",
+			"<ul class=\"navmenu\" id=\"drag\" >",
+			"<br>TOP",
+			"<li>\n                                <a class=\"login-area dropdown-toggle\" data-toggle=\"dropdown\">\n                                    <section>\n                                        <h2> <span><i class=\"fa fa-backward\"></i> 返回</span></h2>\n                                    </section>\n                                </a>\n                            </li>\n<li>\n                                <a class=\"login-area dropdown-toggle\" data-toggle=\"dropdown\">\n                                    <section>\n                                        <h2> <span><i class=\"fa fa-home\"></i> 返回首页</span></h2>\n                                    </section>\n                                </a>\n                            </li>",
+			"<!-- /Sidebar Collapse -->\n                <!-- Account Area and Settings -->",
+			"<!-- Account Area and Settings -->",
+			"<p>Changsha Capital  International Airport ©2013-2017，All Right  Reserved</p>\n<p>长沙黄花国际机场股份有限公司 版权所有</p>\n<p>拓维信息股份有限公司技术支持</p>",
+			"<link id=\"skin-link\" href=\"assets/css/airport.css\" rel=\"stylesheet\" type=\"text/css\" />",
+			"<li name=\"\" class=\"active\"><a href=\"#\">首页</a></li>",
+			"434343",
+			"D:/WWW",
+			"youkatao",
+			"},\n  {",
+			"{\n    \"ID\"",
+			"\",\n    \"",
+			"\"ID\":\"",
+			",\n    \"name\":\"",
+			"[\n    \"ID\":",
+			";@",
+			";",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "plain text",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/ls-form.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "less",
+							"buffer_scroll_name": "dd186dde",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "less/ls-form.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								707,
+								707
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "less",
+							"buffer_scroll_name": "6be291c0",
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 264.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "form-v.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								766,
+								766
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "487ca72c",
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 332.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "form-inline.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								772,
+								772
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "487ca72c",
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 514.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ls-form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								891,
+								891
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bs_sintax": "html",
+							"buffer_scroll_name": "481ecf8a",
+							"incomplete_sync": null,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 396.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 180.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "表单模块.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\MyWorks\\2018\\03月\\农委\\农委.sublime-project"
+			]
+		],
+		"width": 692.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
